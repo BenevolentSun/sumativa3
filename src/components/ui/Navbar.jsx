@@ -107,7 +107,7 @@ export default function Navbar() {
             ))}
             {/* Desktop GitHub Link */}
             <a 
-              href="https://github.com/Steban117"
+              href="https://github.com/BenevolentSun/sumativa3"
               target="_blank"
               rel="noopener noreferrer"
               style={{
@@ -182,7 +182,7 @@ export default function Navbar() {
             ))}
             {/* Mobile GitHub Link */}
             <a 
-              href="https://github.com/Steban117"
+              href="https://github.com/BenevolentSun/sumativa3"
               target="_blank"
               rel="noopener noreferrer"
               style={{
